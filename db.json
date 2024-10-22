@@ -1,0 +1,64 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Team Meeting",
+      "day": "October 20th at 10:00am",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "Gym Workout",
+      "day": "October 21st at 6:00pm",
+      "reminder": false
+    },
+    {
+      "id": 3,
+      "text": "Grocery Shopping",
+      "day": "October 22nd at 11:00am",
+      "reminder": true
+    },
+    {
+      "id": 4,
+      "text": "Doctor's Appointment",
+      "day": "October 23rd at 2:00pm",
+      "reminder": true
+    },
+    {
+      "id": 5,
+      "text": "Family Dinner",
+      "day": "October 24th at 7:00pm",
+      "reminder": false
+    },
+    {
+      "id": 6,
+      "text": "Car Service",
+      "day": "October 25th at 9:00am",
+      "reminder": true
+    },
+    {
+      "id": 7,
+      "text": "Client Presentation",
+      "day": "October 26th at 3:30pm",
+      "reminder": true
+    },
+    {
+      "id": 8,
+      "text": "Pick Up Laundry",
+      "day": "October 27th at 5:00pm",
+      "reminder": false
+    },
+    {
+      "id": 9,
+      "text": "Submit Project Report",
+      "day": "October 28th at 12:00pm",
+      "reminder": true
+    },
+    {
+      "id": 10,
+      "text": "Call Plumber",
+      "day": "October 29th at 10:00am",
+      "reminder": false
+    }
+  ]
+}
